@@ -23,9 +23,3 @@ Olá, muito prazer, me chamo Davi Melo, tenho 18 anos e sou natural de João Pes
 </div>
 
 ##
-#### 🚀 Minhas Estatísticas
-
-<div style="display: inline_block"><br>
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=daviimelo&show_icons=true&theme=tokyonight&locale=pt-br">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviimelo&theme=tokyonight&layout=compact&custom_title=Tecnologias&locale=pt-br">
-</div>
