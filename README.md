@@ -1,7 +1,7 @@
 ## Davi Melo
-*`Desenvolvedor Mobile`*
+*`Desenvolvedor`*
 
-Olá, muito prazer, me chamo Davi Melo, tenho 18 anos e sou natural de João Pessoa. Conclui o ensino médio pelo IFPB – Campus Santa Rita, com o curso de Técnico em Informática. No momento, estou cursando Análise e Desenvolvimento de Sistemas e trabalhando no desenvolvimento de uma aplicação mobile com React Native e TypeScript pelo Polo de Inovação do IFPB.
+Olá, muito prazer, me chamo Davi Melo, tenho 18 anos e sou natural de João Pessoa. Conclui o ensino médio pelo IFPB – Campus Santa Rita, com o curso de Técnico em Informática. No momento, estou cursando Análise e Desenvolvimento de Sistemas e buscando novas oportunidades na área. Dedico meus estudos ao ecossistema Java, além de possuir conhecimentos em Python, Desenvolvimento WEB, Docker e versionamento com Git.
 
 <div><br>
   <a href = "mailto:davimelonsmt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
