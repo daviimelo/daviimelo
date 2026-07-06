@@ -15,5 +15,5 @@
 <div>
   <a href = "mailto:davimelonsmt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davimelodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://daviimelo.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23252525.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"></a>
+  <a href="https://daviimelo.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23252525.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"></a>
 </div>
